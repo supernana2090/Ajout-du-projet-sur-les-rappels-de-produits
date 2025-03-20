@@ -9,8 +9,10 @@ L'objectif est d'identifier les tendances des rappels en examinant les marques, 
 - **Neo4j** : Visualisation des relations entre les entreprises, les agences et les États impactés  
 
 ## 📂 Contenu du projet  
-- 📄 `miniprojetS2-2.pdf` → Rapport détaillé du projet  
-- 🗂 `queries_mongodb.js` → Requêtes MongoDB pour interroger et manipuler les données  
-- 🗂 `queries_neo4j.cypher` → Requêtes Neo4j pour modéliser et analyser les connexions  
+- 📄 `Returnproduct.pdf` → Rapport détaillé du projet  
+- 🗂 `Donnés.json` → Source des donnnées  
 - 📖 `README.md` → Ce fichier  
 
+## 📥 Source des données  
+Les données utilisées dans ce projet proviennent de Kaggle :  
+🔗 [Product Recalls Dataset - Kaggle](https://www.kaggle.com/datasets/aadhafun/food-safety-recalls) 
